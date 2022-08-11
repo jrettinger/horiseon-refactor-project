@@ -5,6 +5,6 @@ Horiseon-refactor-project
 My first ever attempt at refactoring Horiseon's existing code to make it more efficient and meet the acceptance code.
 
 ### Visuals
-Screenshot - <img src="./assets/images/Horiseon-Search-Engine-Optimization.png" alt= "Horiseon website screenshot>
+<img src="./assets/images/Horiseon-Search-Engine-Optimization.png" alt="screenshot of my page">
 
-Link to web site - <a href="https://jrettinger.github.io/horiseon-refactor-project/"></a>
+<a href="https://jrettinger.github.io/horiseon-refactor-project/">Link to my project</a>
